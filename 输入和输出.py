@@ -24,4 +24,3 @@ print()
 for name,phone in table.items():
     print('{0:10} ==> {1:10d}'.format(name,phone))
 
-open('/')
